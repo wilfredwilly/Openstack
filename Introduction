@@ -6,13 +6,35 @@ Accessing Datacenter across different parts/Regions of World over the internet w
 4) Fault Tolerance
 5) Application Mobility among different Cloud Platforms.
 
+
 Cloud providers are catergories into Private, Public & Hybrid
+
+Private Cloud: Single tenant.Created for using within the organization based on  Security or local governing policy within the Country.
+Example : 
+Technology: Openstack, IBM Private Cloud & Microsoft Stack
+
+
+Public Cloud: Multitenant. Shared with a number of other clients and tenant.
+Technology: AWS, Microsoft Azure, IBM Cloud, Google & Oracle
+
+Hybrid Cloud: Combination of  both Private and Public Cloud Providers
+
 
 Services which evolved in Cloud are as follows
 Infrastructure-as-a-Service
 Platform-as-a-Service
 Software-as-a-Service
 Database-as-a-Service
+
+Infrastructure-as-a-Service: Provide base layer of infrastructure like compute, network & Storage.
+Providers: AWS, Microsoft Azure, IBM Cloud, Google & Oracle.
+
+Platform-as-a-Service: Provide multiple buildpacks plugin for different development software. Buildpacks Provide framework and runtime support for Application
+Providers: Opensource Cloud Foundry & Pivotal Cloud foundary.
+
+Software-as-a-Service
+
+
 
 
 
