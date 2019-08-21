@@ -29,7 +29,7 @@ Database-as-a-Service
 Infrastructure-as-a-Service: Provide base layer of infrastructure like compute, network & Storage.
 Providers: AWS, Microsoft Azure, IBM Cloud, Google & Oracle.
 
-Platform-as-a-Service: Provide multiple buildpacks plugin for different development software. Buildpacks Provide framework and runtime support for Application
+Platform-as-a-Service: Provide multiple buildpacks plugin for different software. Buildpacks Provide framework and runtime support for Application
 Providers: Opensource Cloud Foundry & Pivotal Cloud foundary.
 
 Software-as-a-Service
